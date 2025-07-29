@@ -33,3 +33,16 @@ Generate **exam-style questions** from any syllabus PDF or image using **Google 
 git clone https://github.com/your-username/syllabus-question-generator.git
 cd syllabus-question-generator
 pip install -r requirements.txt
+
+```
+
+## Requirements.txt
+
+streamlit
+python-dotenv
+pytesseract
+Pillow
+langchain
+langchain-google-genai
+pdf2image
+
