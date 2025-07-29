@@ -1,5 +1,3 @@
-# Syllabus-questions-generator
-Upload any syllabus PDF/image and auto-generate unit-wise exam questions using Gemini + LangChain.
 # 📚 Syllabus Question Generator | GenAI + Streamlit
 
 Generate **exam-style questions** from any syllabus PDF or image using **Google Gemini**, **LangChain**, and **OCR**.
